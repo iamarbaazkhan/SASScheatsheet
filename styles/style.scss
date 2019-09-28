@@ -1,0 +1,11 @@
+@import "./varibales.scss";
+@import "./header";
+
+.contact{
+    @extend header;
+   
+}
+
+// use & symbol for hover and after and before &::before , &::after , &:hover
+// use import for header.scss
+// @mixin function for using regular css content

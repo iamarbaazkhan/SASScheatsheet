@@ -1,0 +1,12 @@
+header, .contact {
+  background: lightblue;
+}
+
+header button, .contact button {
+  background: red;
+}
+
+header button:hover, .contact button:hover {
+  background: blue;
+}
+/*# sourceMappingURL=style.css.map */

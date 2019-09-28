@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEGA,AAAA,MAAM,EFAN,QAAQ,CEAF;EAGF,UAAU,EAAC,SAAS;CAevB;;AAlBD,AAQI,MARE,CAQF,MAAM,EFRV,QAAQ,CEQJ,MAAM,CAAA;EACF,UAAU,EDXN,GAAG;CCgBV;;AAdL,AAWY,MAXN,CAQF,MAAM,AAGG,MAAM,EFXnB,QAAQ,CEQJ,MAAM,AAGG,MAAM,CAAA;EACH,UAAU,EAAC,IAAI;CAClB",
+    "sources": [
+        "style.scss",
+        "varibales.scss",
+        "_header.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

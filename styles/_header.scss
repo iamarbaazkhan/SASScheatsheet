@@ -1,0 +1,22 @@
+
+
+
+header{
+
+
+    background:lightblue;
+    
+
+    // In scss we can use nested tags 
+
+    button{
+        background:$primaryBtn;
+            // for using hover in button use & symbol   
+            &:hover{
+                background:blue;
+            }
+    }
+
+
+   
+}
